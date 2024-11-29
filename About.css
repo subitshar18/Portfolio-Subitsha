@@ -25,16 +25,15 @@ body{
     display: flex;
     flex-direction: column;
     grid-template-columns: 1fr 1fr 1fr;
-    padding-bottom: 1cm;
-    gap: 1cm;                              
+    padding-bottom: 1cm;                              
 }
 .AcademicItem{
     margin-right: 1cm;
     margin-left: 1cm;
     padding-left: 4px;
-    border: solid black 1px;
-    background-color:#012f2f;
-    color: white;
+    /* border: solid black 1px; */
+    /* background-color:#012f2f; */
+    color:black;
     
 }
 .objective{
