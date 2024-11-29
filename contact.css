@@ -12,7 +12,8 @@ body{
 }
 
 .nav-item{
-    background-color: #012f2f;  
+    background-color: #012f2f; 
+    border-radius: 10px; 
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
